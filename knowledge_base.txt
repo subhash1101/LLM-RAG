@@ -1,0 +1,5 @@
+OpenAI is an AI research organization focused on creating safe and useful artificial intelligence.
+LangChain is a framework to build LLM-powered applications.
+ChromaDB is an open-source vector database for semantic search.
+LLMs like GPT-4 can generate human-like text responses based on provided prompts.
+Retrieval-Augmented Generation (RAG) combines LLMs with external knowledge for grounded answers.

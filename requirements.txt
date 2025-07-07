@@ -1,0 +1,6 @@
+streamlit
+chromadb==0.4.14
+sentence-transformers
+tqdm
+transformers
+torch
