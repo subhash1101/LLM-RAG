@@ -3,3 +3,55 @@ LangChain is a framework to build LLM-powered applications.
 ChromaDB is an open-source vector database for semantic search.
 LLMs like GPT-4 can generate human-like text responses based on provided prompts.
 Retrieval-Augmented Generation (RAG) combines LLMs with external knowledge for grounded answers.
+OpenAI is an artificial intelligence research lab based in San Francisco.
+ChatGPT is a conversational AI model developed by OpenAI.
+Python is a high-level, interpreted programming language known for its readability.
+The capital of France is Paris.
+The boiling point of water is 100 degrees Celsius.
+Mount Everest is the highest mountain above sea level on Earth.
+The sun is approximately 149.6 million kilometers away from Earth.
+Photosynthesis is the process by which green plants use sunlight to synthesize nutrients from carbon dioxide and water.
+Newton’s second law states that Force = Mass × Acceleration.
+HTML stands for HyperText Markup Language and is used to structure web content.
+CSS stands for Cascading Style Sheets and is used to style HTML content.
+JavaScript is a programming language primarily used for interactive web applications.
+A variable in Python is created by assigning a value to a name using the equals sign.
+In Python, a list is a mutable, ordered collection of items.
+In Python, a tuple is an immutable sequence of values.
+Django is a high-level Python web framework that encourages rapid development.
+Flask is a lightweight Python web framework useful for small applications.
+SQL stands for Structured Query Language and is used to manage relational databases.
+SELECT * FROM table_name; retrieves all rows from a table in SQL.
+In Java, a class is a blueprint for creating objects.
+In Java, the main method is the entry point of any standalone application.
+Git is a distributed version control system used to track changes in code.
+GitHub is a web-based platform for hosting and collaborating on Git repositories.
+A pull request is a GitHub feature used to propose changes to a codebase.
+REST stands for Representational State Transfer and is a common architecture for web APIs.
+HTTP stands for HyperText Transfer Protocol.
+HTTPS is the secure version of HTTP, using SSL/TLS for encryption.
+The speed of light in a vacuum is approximately 299,792 kilometers per second.
+The human brain has approximately 86 billion neurons.
+The Earth orbits the sun once every 365.25 days.
+The moon causes tides on Earth due to its gravitational pull.
+The mitochondrion is known as the powerhouse of the cell.
+The Great Wall of China is visible from low Earth orbit under certain conditions.
+The first president of the United States was George Washington.
+The Taj Mahal is a UNESCO World Heritage site located in Agra, India.
+Mahatma Gandhi led India to independence through non-violent resistance.
+The periodic table organizes chemical elements by atomic number.
+H2O is the chemical formula for water.
+CO2 stands for carbon dioxide.
+A leap year occurs every four years and has 366 days.
+Tesla is an electric vehicle and clean energy company founded by Elon Musk.
+Google was founded in 1998 by Larry Page and Sergey Brin.
+The stock ticker symbol for Apple Inc. is AAPL.
+The Eiffel Tower is located in Paris, France.
+A solar eclipse occurs when the moon passes between the Earth and the sun.
+Machine learning is a subset of artificial intelligence that focuses on pattern recognition.
+Supervised learning uses labeled data to train models.
+Unsupervised learning finds hidden patterns in data without labels.
+Overfitting occurs when a model performs well on training data but poorly on new data.
+The k-means algorithm is a popular clustering method in machine learning.
+A neural network is inspired by the structure of the human brain.
+Large Language Models (LLMs) are trained on massive datasets to understand and generate text.
