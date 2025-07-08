@@ -1,6 +1,6 @@
 # 🧠 RAG Knowledge Assistant (Streamlit + Local LLM)
 
-*Designed and deployed an LLM-powered Context-Aware Knowledge Assistant using Retrieval-Augmented Generation (RAG) techniques.* Integrated OpenAI GPT models with ChromaDB for semantic search, enabling accurate, knowledge-grounded responses. Optimized prompt templates and context injection, improving answer relevance by 30% based on internal evaluations.
+*Designed and deployed an LLM-powered Context-Aware Knowledge Assistant using Retrieval-Augmented Generation (RAG) techniques.* Integrated Huggingface models with ChromaDB for semantic search, enabling accurate, knowledge-grounded responses. Optimized prompt templates and context injection, improving answer relevance by 30% based on internal evaluations.
 
 The application is built using:
 - 🧪 `ChromaDB` for vector search
